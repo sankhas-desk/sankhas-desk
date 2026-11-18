@@ -18,7 +18,7 @@ I'm a mechanical engineering student who enjoys building software on the side. I
 
 | Project | What it does |
 |---|---|
-| [**cctv-manager**](https://github.com/sankhas-desk/cctv-manager) | Tool for managing CCTV systems |
+| [**cctv-manager**](https://github.com/sankhas-desk/cctv-manager) | Tool for managing CCTV Service JOBS in Service centre |
 | [**Lanka-Uni-GPA**](https://github.com/sankhas-desk/Lanka-Uni-GPA) | GPA calculator for Sri Lankan university students |
 | [**markitdown-gui**](https://github.com/sankhas-desk/markitdown-gui) | Desktop GUI for converting files to Markdown |
 
