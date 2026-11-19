@@ -7,7 +7,7 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/Neluwa-Sri_Lanka-2F81F7?style=for-the-badge&logo=googlemaps&logoColor=white)
-![University](https://img.shields.io/badge/Sabaragamuwa_University-BSc_ET-0D1117?style=for-the-badge&logo=academia&logoColor=white)
+![University](https://img.shields.io/badge/Sabaragamuwa_University-B.Eng_Tech-0D1117?style=for-the-badge&logo=academia&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=sankhas-desk&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
 
 </div>
