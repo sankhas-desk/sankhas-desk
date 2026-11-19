@@ -20,7 +20,7 @@
 const sankha = {
   name: "Sankha Mudhitha de Silva",
   from: "Neluwa, Sri Lanka",
-  studying: "BSc Engineering Technology (Mechanical)",
+  studying: "Bachelor of Engineering Technology (Mechanical)",
   university: "Sabaragamuwa University of Sri Lanka",
   builds: ["web apps", "desktop tools", "things that save time"],
   mindset: "If a boring task repeats, automate it.",
